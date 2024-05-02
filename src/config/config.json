@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "midnight",
+    "password": "midnight",
+    "database": "payment_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "midnight",
+    "password": "midnight",
+    "database": "payment_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "midnight",
+    "password": "midnight",
+    "database": "payment_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
