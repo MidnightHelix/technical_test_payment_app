@@ -1,19 +1,19 @@
-# Run Migration
+## Run Migration
 
 `sequelize db:migrate`
 
-# Run Seeder
+## Run Seeder
 
 `sequelize db:seed:all`
 
-# Start Zookeper Service
+## Start Zookeper Service
 
 `bin/zookeeper-server-start.sh config/zookeeper.properties`
 
-# Start the Kafka broker service
+## Start the Kafka broker service
 
 `bin/kafka-server-start.sh config/server.properties`
 
-# Run Node
+## Run Node
 
 `node app.js`
